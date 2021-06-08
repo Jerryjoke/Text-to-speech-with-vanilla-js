@@ -1,0 +1,31 @@
+body{
+	background-image: url(bc.jpg);
+}
+#container{
+	text-align: center;
+	margin-top: 6%;
+}
+h1{
+	font-size: 60px;
+	font-family: Copperplate, Papyrus, fantasy;
+	letter-spacing: 10px;
+	color: #FCF3F8 ;
+}
+h3{
+	font-size: 45px;
+	font-family: 'Times New Roman', serif;
+	letter-spacing: 2px;
+	color: #FCF3F8 ;
+}
+#textTospeech{
+			width: 50%;
+		}
+button{
+	margin-top: 20px;
+	font-size: 25px;
+	font-family: 'Times New Roman', serif;
+	text-align: center;
+	background-color: #FCF3F8;
+	width: 10%;
+	cursor: pointer;
+}
